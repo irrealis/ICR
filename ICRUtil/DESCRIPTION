@@ -1,0 +1,13 @@
+Package: ICRUtil
+Title: Personal R Utilities by irrealis
+Version: 0.0.0.9000
+Authors@R: person("irrealis", "chomp", email = "irrealis.chomp@gmail.com", role = c("aut", "cre"))
+Description: A collection of personal R utilities.
+Depends: R (>= 3.4.3)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
