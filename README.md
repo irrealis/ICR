@@ -1,2 +1,2 @@
-# irutil
+# ICR
 Odds and ends for R
