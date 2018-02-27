@@ -1,2 +1,2 @@
-# r-programming
-Odds and ends for R programming
+# irutil
+Odds and ends for R
